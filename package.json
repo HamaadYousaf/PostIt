@@ -1,0 +1,29 @@
+{
+  "name": "post-it-notes",
+  "version": "1.0.0",
+  "description": "full stack sticky notes website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamaadYousaf/PostIt.git"
+  },
+  "author": "Hamaad Yousaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HamaadYousaf/PostIt/issues"
+  },
+  "homepage": "https://github.com/HamaadYousaf/PostIt#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
