@@ -3,3 +3,8 @@
 A website to post personal sticky notes.
 
 #### Under development
+
+##### Completed
+
+- Server and routes implemented
+- Routes tested through Postman
